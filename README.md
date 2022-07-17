@@ -1,4 +1,4 @@
-## Olá! Me chamo Leonardo e sou Desenvolvedor Full-Stack!
+## Olá! Me chamo Leonardo e sou Desenvolvedor Back-End!
 <div align="center">
   <a href="https://github.com/leosantana9140">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosantana9140&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -24,6 +24,7 @@
   <br>
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring Framework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Apache" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
 </div>
   
@@ -31,6 +32,7 @@
 #### Conhecimentos em Banco de Dados:
 <div style="display: inline_block;">
   <br>
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
